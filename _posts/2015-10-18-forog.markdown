@@ -1,0 +1,14 @@
+---
+title: Forog
+subtitle: Stratégie
+layout: default
+modal-id: 1
+img: forog-2.jpg
+thumbnail: forog-1.jpg
+alt: image-alt
+players: 2
+age: 8+
+category: Stratégie
+category: Web Development
+description: jeu de stratégie pour ceux qui aiment se creuser les méninges sans trop tourner en rond. Apd de 12 ans. Pour deux.
+---

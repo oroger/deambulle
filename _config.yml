@@ -1,0 +1,27 @@
+url: https://y7kim.github.io
+baseurl: 
+
+# Site settings
+title: Jeux en bois 100% Belge !
+email: jeuxjouebelge@gmail.com
+description: "Jeux en bois 100% Belge !"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: E29932
+  secondary: 000000  
+  secondary-dark: 223836
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/Jeux-en-bois-100-BELGE-676561495743718/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Rue de Molenbeek -- 167-169 / C11
+  - line: Laeken 1020 Bruxelles
+
+# Build settings
+markdown: kramdown
+permalink: pretty
