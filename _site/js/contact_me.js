@@ -24,7 +24,9 @@ $(function() {
                     name: name,
                     phone: phone,
                     email: email,
-                    message: message
+                    message: message,
+                    _replyTo: email,
+                    _next: "http://oroger.github.io/deambulle/#contact"
                 },
                 cache: false,
                 success: function() {
@@ -39,6 +41,11 @@ $(function() {
 
                     //clear all fields
                     $('#contactForm').trigger("reset");
+                },
+                statusCode:
+                {
+                    302: function () { alert(' received redirect 302'); },
+                    301: function () { alert(' received redirect 301'); }
                 },
                 error: function() {
                     // Fail message
