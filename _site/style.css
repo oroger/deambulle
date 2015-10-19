@@ -281,7 +281,6 @@ fieldset[disabled] .btn-xl.active {
 header {
     background-image: url(img/deambulle/rivière-de-couleur-2.jpg);
     -webkit-filter: grayscale(10%) opacity(0.8) saturate(1.5);
-    filter: grayscale(10%) opacity(0.8) saturate(1.5);
     background-attachment: scroll;
     background-position: center center;
     background-repeat: none;
