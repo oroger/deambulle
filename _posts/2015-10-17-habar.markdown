@@ -1,0 +1,20 @@
+---
+title: Habar
+subtitle: Mémoire
+layout: default
+modal-id: 3
+img: habar
+images: 4
+video: N
+video-url: 
+thumbnail: habar-1.jpg
+alt: image-alt
+players: 2
+age: 6+
+duration: 8-10 minutes
+price: 15 €
+category: Memoire
+description: Petit jeu de memory à emporter partout avec toi. <br> Travaille aussi la psychomotricité fine.
+goal: Retrouve les couleurs après mélange et retournement des bâtonnets. Tente d'obtenir le max de points.
+out-of-stock: N
+---

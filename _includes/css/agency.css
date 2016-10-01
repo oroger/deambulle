@@ -365,7 +365,7 @@ section h3.section-subheading {
     display: block;
     position: relative;
     margin: 0 auto;
-    max-width: 400px;
+    max-width: 900px;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
@@ -407,7 +407,7 @@ section h3.section-subheading {
 #portfolio .portfolio-item .portfolio-caption {
     margin: 0 auto;
     padding: 25px;
-    max-width: 400px;
+    max-width: 900px;
     text-align: center;
     background-color: #fff;
 }
@@ -432,6 +432,14 @@ section h3.section-subheading {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
+}
+
+#about .portfolio-item .portfolio-caption {
+    margin: 0 auto;
+    padding: 35px;
+    max-width: 1200px;
+    text-align: left;
+    background-color: #fff;
 }
 
 .timeline {
@@ -775,6 +783,12 @@ ul.social-buttons li a:active {
     outline: 0;
 }
 
+.game {
+    padding: 10px;
+    min-height: 100%;
+    text-align: center;
+}
+
 .portfolio-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
@@ -873,4 +887,9 @@ body {
     font-size: 16px;
     margin-top: 2px;
     vertical-align: middle;
+}
+
+.sign {
+    font-family: cursive;
+    font-size: x-large;
 }

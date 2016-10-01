@@ -3,12 +3,18 @@ title: Forog
 subtitle: Stratégie
 layout: default
 modal-id: 1
-img: forog-2.jpg
+img: forog
+images: 3
+video: Y
+video-url: https://www.youtube.com/watch?v=5x7ilej-LVQ
 thumbnail: forog-1.jpg
 alt: image-alt
 players: 2
 age: 8+
-category: Stratégie
-category: Web Development
-description: jeu de stratégie pour ceux qui aiment se creuser les méninges sans trop tourner en rond. Apd de 12 ans. Pour deux.
+duration: 10-15 minutes
+price: 48 €
+category: Strategie
+description: Jeu de stratégie pour ceux qui aiment se creuser les méninges sans trop tourner en rond.
+goal: Sois le premier à former un trio de tes billes de même couleur dans le pot central.
+out-of-stock: N
 ---

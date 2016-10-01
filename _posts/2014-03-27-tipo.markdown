@@ -1,0 +1,20 @@
+---
+title: Tipo
+subtitle: Mémoire
+layout: default
+modal-id: 1
+img: tipo
+images: 3
+video: N
+video-url: 
+thumbnail: tipo-1.jpg
+alt: image-alt
+players: 5
+age: 10+
+duration: 15-20 minutes
+price: 30 €
+category: Memoire
+description: Jeu de mémoire famillial. Travaille la mémoire.
+goal: Trouve les couleurs et gagne le plus de pions.
+out-of-stock: Y
+---

@@ -1,0 +1,20 @@
+---
+title: Câu
+subtitle: Stratégie
+layout: default
+modal-id: 1
+img: cau
+images: 4
+video: N
+video-url: 
+thumbnail: cau-1.jpg
+alt: image-alt
+players: 2
+age: 10+
+duration: 15-20 minutes
+price: 50 €
+category: Strategie
+description: Un plateau mouvant, des piles à étaler le plus rapidement possible. Câu est un jeu réservé aux passionés de stratégie.
+goal: Tous ses pions sur le plateau de manière à n'avoir aucune pile comptabilisée.
+out-of-stock: Y
+---

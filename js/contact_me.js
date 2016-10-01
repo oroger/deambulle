@@ -25,8 +25,7 @@ $(function() {
                     phone: phone,
                     email: email,
                     message: message,
-                    _replyTo: email,
-                    _next: "http://oroger.github.io/deambulle/#contact"
+                    _replyTo: email
                 },
                 cache: false,
                 success: function() {
@@ -44,10 +43,36 @@ $(function() {
                 },
                 statusCode:
                 {
-                    302: function () { alert(' received redirect 302'); },
-                    301: function () { alert(' received redirect 301'); }
+                    0: function () {
+                        // Success message
+                        $('#success').html("<div class='alert alert-success'>");
+                        $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
+                            .append("</button>");
+                        $('#success > .alert-success')
+                            .append("<strong>Votre message a été envoyé. </strong>");
+                        $('#success > .alert-success')
+                            .append('</div>');
+
+                        //clear all fields
+                        $('#contactForm').trigger("reset");
+                    },
+                    302: function () {
+                        // Success message
+                        $('#success').html("<div class='alert alert-success'>");
+                        $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
+                            .append("</button>");
+                        $('#success > .alert-success')
+                            .append("<strong>Votre message a été envoyé. </strong>");
+                        $('#success > .alert-success')
+                            .append('</div>');
+
+                        //clear all fields
+                        $('#contactForm').trigger("reset");
+                    },
+                    301: function () { alert(' received redirect 301'); },
+                    307: function () { }
                 },
-                error: function() {
+                error: function(xhr, status) {
                     // Fail message
                     $('#success').html("<div class='alert alert-danger'>");
                     $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
