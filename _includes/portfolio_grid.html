@@ -14,12 +14,13 @@
                         <h4>{{ post.title }}</h4>
                         <p class="text-muted">{{ post.subtitle }}</p>
                             <div class="game">
-                                <div class="owl-carousel">
+
+                                <div class="galleria">
                                     {% for i in (1..post.images) %}
-                                        <div class="item"><img src="img/deambulle/{{ post.img }}-{{ i }}.jpg" class="img-responsive" alt=""></div>
-                                    {% endfor %}                                    
+                                        <img src="img/deambulle/{{ post.img }}-{{ i }}.jpg">
+                                    {% endfor %}
                                     {% if post.video == "Y" %}
-                                        <div class="item-video"><a class="owl-video" href="{{ post.video-url }}"></a></div>
+                                        <a href="{{ post.video-url }}"><img src="img/deambulle/youtube.png"></a>
                                     {% endif %}
                                 </div>
                                 <hr class="star-primary">

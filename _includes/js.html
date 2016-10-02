@@ -9,7 +9,7 @@
     <script src="{{ "/js/classie.js" | prepend: site.baseurl }}"></script>
     <script src="{{ "/js/cbpAnimatedHeader.js" | prepend: site.baseurl }}"></script>
 
-    <script src="{{ "/js/owl.carousel.min.js" | prepend: site.baseurl }}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/galleria/1.4.5/galleria.min.js"></script>
 
     <!-- Contact Form JavaScript -->
     <script src="{{ "/js/jqBootstrapValidation.js" | prepend: site.baseurl }}"></script>
@@ -33,24 +33,14 @@
             }
         });
 
-        $('.owl-carousel').owlCarousel({
-            loop:true,
-            lazyLoad:true,
-            margin:10,
-            nav:false,
-            dots:true,
-            dotsEach:1,
-            video:true,
-            videoHeight:480,
-            videoWidth:840,
-            center:true,
-            items:1,
-            autoplay:false,
-            autoplaySpeed: 500,
-            autoplayTimeout:1000,
-            autoHeight : true,
-            autoplayHoverPause:true
-        });
+        (function() { 
+            Galleria.loadTheme('https://cdnjs.cloudflare.com/ajax/libs/galleria/1.4.5/themes/classic/galleria.classic.min.js');
+            Galleria.configure({
+                transition: 'fade',
+                imageCrop: true
+            });
+            Galleria.run('.galleria');
+        }());
 
       // Google Analytics
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
