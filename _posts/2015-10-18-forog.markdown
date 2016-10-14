@@ -1,6 +1,14 @@
 ---
 title: Forog
 subtitle: Stratégie
+description: Jeu de stratégie pour ceux qui aiment se creuser les méninges sans trop tourner en rond.
+goal: Sois le premier à former un trio de tes billes de même couleur dans le pot central.
+
+title-nl: Forog
+subtitle-nl: Strategie
+description-nl: Strategisch spel voor wie houdt van zijn hoofd te breken zonder rond de pot te draaien.
+goal-nl: Wees de eerste om een trio te vormen van jouw knikkers van dezelfde kleur in de centrale pot.
+
 layout: default
 modal-id: 1
 img: forog
@@ -11,10 +19,8 @@ thumbnail: forog-1.jpg
 alt: image-alt
 players: 2
 age: 8+
-duration: 10-15 minutes
-price: 48 €
+duration: 10-15
+price: 48
 category: Strategie
-description: Jeu de stratégie pour ceux qui aiment se creuser les méninges sans trop tourner en rond.
-goal: Sois le premier à former un trio de tes billes de même couleur dans le pot central.
 out-of-stock: N
 ---

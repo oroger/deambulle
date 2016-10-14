@@ -1,6 +1,14 @@
 ---
 title: Câu
 subtitle: Stratégie
+description: Un plateau mouvant, des piles à étaler le plus rapidement possible. Câu est un jeu réservé aux passionés de stratégie.
+goal: Tous ses pions sur le plateau de manière à n'avoir aucune pile comptabilisée.
+
+title-nl: Câu
+subtitle-nl: Strategie
+description-nl: Een bewegend bord, torens om zo snel mogelijk te verspreiden. Câu is een spel die voorbehouden is voor liefhebbers van strategie.
+goal-nl: Al onze pionnen, op het bord om op deze manier geen enkele toren te tellen.
+
 layout: default
 modal-id: 1
 img: cau
@@ -11,10 +19,8 @@ thumbnail: cau-1.jpg
 alt: image-alt
 players: 2
 age: 10+
-duration: 15-20 minutes
-price: 50 €
+duration: 15-20
+price: 50
 category: Strategie
-description: Un plateau mouvant, des piles à étaler le plus rapidement possible. Câu est un jeu réservé aux passionés de stratégie.
-goal: Tous ses pions sur le plateau de manière à n'avoir aucune pile comptabilisée.
 out-of-stock: Y
 ---

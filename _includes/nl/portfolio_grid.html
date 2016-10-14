@@ -12,38 +12,38 @@
 
                     <div class="portfolio-caption">
                         <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
+                        <p class="text-muted">{{ post.subtitle-nl }}</p>
                             <div class="game">
 
                                 <div class="galleria">
                                     {% for i in (1..post.images) %}
-                                        <img src="img/deambulle/{{ post.img }}-{{ i }}.jpg">
+                                        <img src="/img/deambulle/{{ post.img }}-{{ i }}.jpg">
                                     {% endfor %}
                                     {% if post.video == "Y" %}
-                                        <a href="{{ post.video-url }}"><img src="img/deambulle/youtube.png"></a>
+                                        <a href="{{ post.video-url }}"><img src="/img/deambulle/youtube.png"></a>
                                     {% endif %}
                                 </div>
                                 <hr class="star-primary">
-                                <p>{{ post.description }}</p>
+                                <p>{{ post.description-nl }}</p>
                                 <br/>
-                                <p>{{ post.goal }}</p>
+                                <p>{{ post.goal-nl }}</p>
                                 <br/>
                                 <ul class="list-inline item-details">
-                                    <li>Joueurs:
+                                    <li>Spelers:
                                         <strong>{{ post.players }}</strong>
                                     </li>
                                     <li>Age:
                                         <strong>{{ post.age }}</strong>
                                     </li>
-                                    <li>Durée:
-                                        <strong>{{ post.duration }}</strong>
+                                    <li>Duratie:
+                                        <strong>{{ post.duration }} minuten</strong>
                                     </li>
-                                    <li>Prix:
+                                    <li>Prijs:
                                         <strong>{{ post.price }} €</strong>
                                     </li>
                                 </ul>
                                 {% if post.out-of-stock == "Y" %}
-                                    <p style="color:red">Ce produit n'est plus en stock</p>
+                                    <p style="color:red">Dit product is niet meer in voorraad.</p>
                                 {% endif %}
                             </div>
                     </div>

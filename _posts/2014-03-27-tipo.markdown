@@ -1,6 +1,14 @@
 ---
 title: Tipo
 subtitle: Mémoire
+description: Jeu de mémoire famillial. Travaille la mémoire.
+goal: Trouve les couleurs et gagne le plus de pions.
+
+title-nl: Tipo
+subtitle-nl: Geheugen
+description-nl: Familiaal geheugenspel. Stimuleert de denkontwikkeling
+goal-nl: Vind de kleuren en win zoveel mogelijk pionnen.
+
 layout: default
 modal-id: 1
 img: tipo
@@ -11,10 +19,8 @@ thumbnail: tipo-1.jpg
 alt: image-alt
 players: 5
 age: 10+
-duration: 15-20 minutes
-price: 30 €
+duration: 15-20
+price: 30
 category: Memoire
-description: Jeu de mémoire famillial. Travaille la mémoire.
-goal: Trouve les couleurs et gagne le plus de pions.
 out-of-stock: Y
 ---

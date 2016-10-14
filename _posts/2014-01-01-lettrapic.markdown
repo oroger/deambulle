@@ -1,6 +1,14 @@
 ---
 title: Lettrapic
 subtitle: Ambiance
+description: Le jeu qui délie les langues... fais attention, ton inconscient risque de te trahir!
+goal: Sois le premier à écouler toutes tes cartes.
+
+title-nl: Lettrapic
+subtitle-nl: Gezellig
+description-nl: Het spel dat de talen losmaakt…pas op, je buitenbewustzijn kan je parten spelen.
+goal-nl: Wees de eerst om naar de kaarten te luisteren. Allen in frans.
+
 layout: default
 modal-id: 1
 img: lettreapic
@@ -11,10 +19,8 @@ thumbnail: lettreapic-1.jpg
 alt: image-alt
 players: 2-8
 age: 12+
-duration: 20 minutes
-price: 30 €
+duration: 20
+price: 30
 category: Ambiance
-description: Le jeu qui délie les langues... fais attention, ton inconscient risque de te trahir!
-goal: Sois le premier à écouler toutes tes cartes.
 out-of-stock: Y
 ---

@@ -21,6 +21,10 @@
     <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
 
+    <!--link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css' rel='stylesheet' type='text/css'-->
+    <!--link href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.11.2/css/bootstrap-select.min.css' rel='stylesheet' type='text/css'-->
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.2/css/flag-icon.min.css' rel='stylesheet' type='text/css'>
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -64,6 +68,12 @@
                    <li>
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
+                    <li>
+                        <a><span class="flag-icon flag-icon-fr"></span></a>
+                    </li>
+                    <li>
+                        <a href="/nl/"><span class="flag-icon flag-icon-nl"></span></a>
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -82,6 +92,8 @@
         </div>
     </header>
 <!--
+        
+          
         
           
         
@@ -134,7 +146,7 @@
                                         <strong>8+</strong>
                                     </li>
                                     <li>Durée:
-                                        <strong>15-20 minutes</strong>
+                                        <strong>15-20</strong>
                                     </li>
                                     <li>Prix:
                                         <strong>54 €</strong>
@@ -177,7 +189,7 @@
                                         <strong>8+</strong>
                                     </li>
                                     <li>Durée:
-                                        <strong>10-15 minutes</strong>
+                                        <strong>10-15</strong>
                                     </li>
                                     <li>Prix:
                                         <strong>48 €</strong>
@@ -220,7 +232,7 @@
                                         <strong>6+</strong>
                                     </li>
                                     <li>Durée:
-                                        <strong>8-10 minutes</strong>
+                                        <strong>8-10</strong>
                                     </li>
                                     <li>Prix:
                                         <strong>15 €</strong>
@@ -267,7 +279,7 @@
                                         <strong>12+</strong>
                                     </li>
                                     <li>Durée:
-                                        <strong>5-10 minutes</strong>
+                                        <strong>5-10</strong>
                                     </li>
                                     <li>Prix:
                                         <strong>50 €</strong>
@@ -312,7 +324,7 @@
                                         <strong>10+</strong>
                                     </li>
                                     <li>Durée:
-                                        <strong>15-20 minutes</strong>
+                                        <strong>15-20</strong>
                                     </li>
                                     <li>Prix:
                                         <strong>50 €</strong>
@@ -355,7 +367,7 @@
                                         <strong>10+</strong>
                                     </li>
                                     <li>Durée:
-                                        <strong>15-20 minutes</strong>
+                                        <strong>15-20</strong>
                                     </li>
                                     <li>Prix:
                                         <strong>30 €</strong>
@@ -396,7 +408,7 @@
                                         <strong>12+</strong>
                                     </li>
                                     <li>Durée:
-                                        <strong>20 minutes</strong>
+                                        <strong>20</strong>
                                     </li>
                                     <li>Prix:
                                         <strong>30 €</strong>
@@ -439,14 +451,12 @@
                                         <strong>4+</strong>
                                     </li>
                                     <li>Durée:
-                                        <strong>30 minutes</strong>
+                                        <strong>30</strong>
                                     </li>
                                     <li>Prix:
                                         <strong>555 €</strong>
                                     </li>
                                 </ul>
-                                
-                                    <p style="color:red">Ce produit n'est plus en stock</p>
                                 
                             </div>
                     </div>
@@ -662,11 +672,12 @@
             </div>
         </div>
     </footer>
-     <!-- jQuery Version 1.11.0 -->
+        <!-- jQuery Version 1.11.0 -->
     <script src="/js/jquery-1.11.0.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="/js/bootstrap.min.js"></script>
+    <!--script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.11.2/js/bootstrap-select.min.js"></script-->
 
     <!-- Plugin JavaScript -->
     <script src="/js/jquery.easing.min.js"></script>
@@ -714,6 +725,10 @@
 
       ga('create', 'UA-84993579-1', 'auto');
       ga('send', 'pageview');
+
+      $(function(){
+            $('.selectpicker').selectpicker();
+        });
 
     </script>
 

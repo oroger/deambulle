@@ -1,6 +1,14 @@
 ---
 title: La rivière de couleurs
 subtitle: Stratégie / Mémoire
+description: La petite rivière de couleurs est un jeu de stratégie et de mémoire à offrir aux plus jeunes. <br>Travaille l'orientation spatiale, la psychomotricité fine, la mémoire.
+goal: Arrive le premier de l'autre côté du plateau avec tes six pions en passant par les plaquettes colorées.<br/><br/>Lire l'<a href="http://jeuxsoc.fr/?principal=/jeu/rcoul">avis de François Haffner</a>.
+
+title-nl: De rivier vol kleuren
+subtitle-nl: Strategie/Geheugen
+description-nl: De rivier vol kleuren is een strategischen geheugenspel om aan de jongste te geven. <br>Het verbreedt het ruimtelijk inzicht en het denkvermogen en verfijnt de fijne motoriek.
+goal-nl: Kom als eerste aan de overkant van het speelbord met je 6 pionnen door langs de gekleurde plaatjes te gaan.<br/><br/>Lees de mening van <a href="http://jeuxsoc.fr/?principal=/jeu/rcoul">François Haffner</a>. 
+
 layout: default
 modal-id: 2
 img: rivière-de-couleur
@@ -11,10 +19,8 @@ thumbnail: rivière-de-couleur-1.jpg
 alt: image-alt
 players: 2
 age: 8+
-duration: 15-20 minutes
-price: 54 €
+duration: 15-20
+price: 54
 category: Strategie
-description: La petite rivière de couleurs est un jeu de stratégie et de mémoire à offrir aux plus jeunes. <br>Travaille l'orientation spatiale, la psychomotricité fine, la mémoire.
-goal: Arrive le premier de l'autre côté du plateau avec tes six pions en passant par les plaquettes colorées.<br/><br/>Lire l'<a href="http://jeuxsoc.fr/?principal=/jeu/rcoul">avis de François Haffner</a>.
 out-of-stock: N
 ---

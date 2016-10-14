@@ -27,3 +27,15 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: fr
+      base-url: "/"
+  - scope:
+      path: nl
+    values:
+      lang: nl
+      base-url: "/nl/"

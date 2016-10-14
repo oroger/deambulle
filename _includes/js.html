@@ -1,8 +1,9 @@
- <!-- jQuery Version 1.11.0 -->
+    <!-- jQuery Version 1.11.0 -->
     <script src="{{ "/js/jquery-1.11.0.js" | prepend: site.baseurl }}"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+    <!--script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.11.2/js/bootstrap-select.min.js"></script-->
 
     <!-- Plugin JavaScript -->
     <script src="{{ "/js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
@@ -50,5 +51,9 @@
 
       ga('create', 'UA-84993579-1', 'auto');
       ga('send', 'pageview');
+
+      $(function(){
+            $('.selectpicker').selectpicker();
+        });
 
     </script>
