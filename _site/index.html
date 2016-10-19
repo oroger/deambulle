@@ -24,6 +24,7 @@
     <!--link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css' rel='stylesheet' type='text/css'-->
     <!--link href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.11.2/css/bootstrap-select.min.css' rel='stylesheet' type='text/css'-->
     <link href='https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.2/css/flag-icon.min.css' rel='stylesheet' type='text/css'>
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/qtip2/3.0.3/basic/jquery.qtip.min.css' rel='stylesheet' type='text/css'>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -601,6 +602,61 @@
 
         </div>
     </section>
+    <!-- Services Section -->
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Comment passer commande ?</h2>
+                    <h3 class="section-subheading text-muted">Une commande chez Deambulle Jeux se déroule en 4 étapes :</h3>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-3">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Premier contact</h4>
+                    <p class="text-muted">
+                        Vous complétez le formulaire ci-dessous en listant les articles qui vous intéressent et la quantité souhaitée.
+                    </p>
+                </div>
+                <div class="col-md-3">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-comments-o fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">On vous rappelle !</h4>
+                    <p class="text-muted">
+                        Nous prendrons contact avec vous afin de finaliser l’offre, définir le mode de payement et définir le moyen de livraison.
+                    </p>
+                </div>
+                <div class="col-md-3">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-eur fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Payement</h4>
+                    <p class="text-muted">
+                        Vous choisissez entre 3 modes de payement: Paypal, virement bancaire ou en espèces.
+                        Les <span title="Via Kiala, 5€ en Belgique, 15€ en Europe." class="tip">frais d'envoi postal</span> sont à votre charge. 
+                    </p>
+                </div>
+                <div class="col-md-3">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-paper-plane-o fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Envoi</h4>
+                    <p class="text-muted">
+                        Vous venez récupérer votre colis en main propre ou nous vous envoyons les jeux. 
+                        Vous allez enfin pouvoir en profiter. 
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
     <section id="contact">
         <div class="container">
             <div class="row">
@@ -695,6 +751,8 @@
 
     <script src="/js/morphext.min.js"></script>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qtip2/3.0.3/basic/jquery.qtip.min.js"></script>
+
     <script type="text/javascript">
         $(".js-rotating").Morphext({
             // The [in] animation type. Refer to Animate.css for a list of available animations.
@@ -726,9 +784,7 @@
       ga('create', 'UA-84993579-1', 'auto');
       ga('send', 'pageview');
 
-      $(function(){
-            $('.selectpicker').selectpicker();
-        });
+      $('[title!=""]').qtip();
 
     </script>
 

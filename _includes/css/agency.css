@@ -909,3 +909,7 @@ body {
     border:none;
     background: rgba(255,0,0,0.0);
 }
+
+.tip {
+    text-decoration: underline;
+}

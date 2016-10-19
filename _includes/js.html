@@ -21,6 +21,8 @@
 
     <script src="{{ "/js/morphext.min.js" | prepend: site.baseurl }}"></script>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qtip2/3.0.3/basic/jquery.qtip.min.js"></script>
+
     <script type="text/javascript">
         $(".js-rotating").Morphext({
             // The [in] animation type. Refer to Animate.css for a list of available animations.
@@ -52,8 +54,6 @@
       ga('create', 'UA-84993579-1', 'auto');
       ga('send', 'pageview');
 
-      $(function(){
-            $('.selectpicker').selectpicker();
-        });
+      $('[title!=""]').qtip();
 
     </script>
