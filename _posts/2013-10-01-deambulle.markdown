@@ -1,13 +1,18 @@
 ---
-title: Deambulle
+title: Déambulle
 subtitle: Stratégie / Mémoire / Adresse
 description: Jeu géant aux multiples facettes. Plus de 10 variantes différentes en passant du casse-tête au jeu d'adresse.
 goal: <br/><br/>Lire l'<a href="http://jeuxsoc.fr/?principal=/jeu/deamb">avis de François Haffner</a>.
 
-title-nl: Deambulle
+title-nl: Déambulle
 subtitle-nl: Strategie/Geheugen/Behendigheid
 description-nl: Reuze spel met meerdere facetten. Meer dan 10 variaties, van doordenker tot behendigheidsspel.
 goal-nl: <br/><br/>Lees de mening <a href="http://jeuxsoc.fr/?principal=/jeu/deamb">van François Haffner</a>.
+
+title-de: Déambulle
+subtitle-de: Stategie/Gedächtnis/Geschicklichkeit
+description-de: Tolles Spiel mit multiplen Facetten. Mehr als 10 verschiedene Variationen vom Kopfzerbrecher hin bis zum Geschicklichkeitsspiel.
+goal-de:
 
 layout: default
 modal-id: 1
@@ -20,7 +25,7 @@ alt: image-alt
 players: 1-10
 age: 4+
 duration: 30
-price: 555
+price: 350
 category: Strategie
-out-of-stock: N
+out-of-stock: Y
 ---

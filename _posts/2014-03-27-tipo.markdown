@@ -9,6 +9,12 @@ subtitle-nl: Geheugen
 description-nl: Familiaal geheugenspel. Stimuleert de denkontwikkeling
 goal-nl: Vind de kleuren en win zoveel mogelijk pionnen.
 
+title-de: Tipo
+subtitle-de: Gedächtnis
+description-de: Gedächtnisspiel für die Familie. 
+goal-de: Finde die Farben und gewinne die meisten Spielsteine.
+
+
 layout: default
 modal-id: 1
 img: tipo

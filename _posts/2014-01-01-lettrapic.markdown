@@ -6,8 +6,13 @@ goal: Sois le premier à écouler toutes tes cartes.
 
 title-nl: Lettrapic
 subtitle-nl: Gezellig
-description-nl: Het spel dat de talen losmaakt…pas op, je buitenbewustzijn kan je parten spelen.
+description-nl: Het spel dat de talen losmaakt... pas op, je buitenbewustzijn kan je parten spelen.
 goal-nl: Wees de eerst om naar de kaarten te luisteren. Aleen in het frans.
+
+title-de: Lettrapic
+subtitle-de: Gute Stimmung
+description-de: Das Spiel bringt Dich zum sprechen... pass auf, dein Unterbewusstsein kann zum Vorschein kommen !
+goal-de: Sei der Erste der seine Karten abwirft. Buchstabenspiel nur in französich.
 
 layout: default
 modal-id: 1

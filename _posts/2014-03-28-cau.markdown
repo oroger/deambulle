@@ -9,6 +9,11 @@ subtitle-nl: Strategie
 description-nl: Een bewegend bord, torens om zo snel mogelijk te verspreiden. Câu is een spel die voorbehouden is voor liefhebbers van strategie.
 goal-nl: Al onze pionnen, op het bord om op deze manier geen enkele toren te tellen.
 
+title-de: Câu
+subtitle-de: Strategie
+description-de: Eine bewegliche Spielfläche, aufgestockte Spielsteine die so schnell wie möglich verteilt werden müssen. Câu ist ein Spiel ausschliesslich für leidenschaftliche Spieler.
+goal-de: Plaziere alle Spielsteine auf der Spielfläche so doss keine aufgestockten Spielsteine gezählt werden.
+
 layout: default
 modal-id: 1
 img: cau

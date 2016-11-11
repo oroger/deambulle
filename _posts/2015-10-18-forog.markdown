@@ -9,6 +9,11 @@ subtitle-nl: Strategie
 description-nl: Strategisch spel voor wie houdt van zijn hoofd te breken zonder rond de pot te draaien.
 goal-nl: Wees de eerste om een trio te vormen van jouw knikkers van dezelfde kleur in de centrale pot.
 
+title-de: Forog
+subtitle-de: Strategie
+description-de: Strategiespiel für die die gerne Denkspiele machen ohne sich im Kreis zu drehen.
+goal-de: Sei der Erste der ein Trio mit seinen Kugeln gleicher Farbe in den Topf in der Mitte bringt.
+
 layout: default
 modal-id: 1
 img: forog

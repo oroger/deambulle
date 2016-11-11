@@ -1,13 +1,18 @@
 ---
 title: OxoColors
 subtitle: Stratégie / Mémoire
-description: Oxocolors est LE jeu à emporter en voyage! C'est un peu comme un oxo mais en trois dimensions et avec des couleurs!
+description: Oxocolors est LE jeu à emporter en voyage! <br/> C'est un peu comme un oxo mais en trois dimensions et avec des couleurs!
 goal: Soit le premier à aligner 3 pions de même couleurs sur le plateau.
 
 title-nl: OxoColors
 subtitle-nl: Strategie/Geheugen
-description-nl: OxoColors is HET spel om op reis mee te nemen! Het is een beetje als oxo maar 3 dimensionaal en met kleuren! 
+description-nl: OxoColors is HET spel om op reis mee te nemen! <br/> Het is een beetje als oxo maar 3 dimensionaal en met kleuren! 
 goal-nl: Wees de eerste om 3 punten op een lijn van dezelfde kleur op het bord te zetten.
+
+title-de: OxoColors
+subtitle-de: Strategie/Gedächtnis
+description-de: Oxocolors ist DAS Spiel zum mitnehmen für unterwegs! <br/> Es ist dem OXO ähnlich aber in drei Dimensionen gemacht und mit Farben !
+goal-de: Sei der Erste der 3 Spielsteine der selben Farbe auf der Spielfläche auf eine Linie bringt.
 
 layout: default
 modal-id: 1

@@ -9,6 +9,11 @@ subtitle-nl: Geheugen
 description-nl: Klein memorie spel om overal met je mee te nemen. Verfijnt de fijne motoriek.
 goal-nl: Vind je kleuren terug nadat je de stokken gemengeld en omgedraaid hebt. Probeer om zoveel mogelijk punten te hebben.
 
+title-de: Habar
+subtitle-de: Gedächtnis
+description-de: Kleines Gedächtnisspiel dass man überall hin mitnehmen kann. Trainiert die Feinmotorik.
+goal-de: Finde die Farbstäbe wieder nachdem sie vermischt und umgedreht worden sind. Versuche so viel wie möglich Punkte zu bekommen.
+
 layout: default
 modal-id: 3
 img: habar

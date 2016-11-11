@@ -1,0 +1,54 @@
+<!-- Portfolio Grid Section -->
+    <section id="portfolio" class="bg-light-gray">
+        <div class="container">
+            <!--div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Jeux</h2>
+                </div>
+            </div-->
+            <div class="row">
+            {% for post in site.posts %}
+                <div class="col-md-12 col-sm-12 portfolio-item">
+
+                    <div class="portfolio-caption">
+                        <h4>{{ post.title }}</h4>
+                        <p class="text-muted">{{ post.subtitle-de }}</p>
+                            <div class="game">
+
+                                <div class="galleria">
+                                    {% for i in (1..post.images) %}
+                                        <img src="/img/deambulle/{{ post.img }}-{{ i }}.jpg">
+                                    {% endfor %}
+                                    {% if post.video == "Y" %}
+                                        <a href="{{ post.video-url }}"><img src="/img/deambulle/youtube.png"></a>
+                                    {% endif %}
+                                </div>
+                                <hr class="star-primary">
+                                <p>{{ post.description-de }}</p>
+                                <br/>
+                                <p>{{ post.goal-de }}</p>
+                                <br/>
+                                <ul class="list-inline item-details">
+                                    <li>Spieler:
+                                        <strong>{{ post.players }}</strong>
+                                    </li>
+                                    <li>Alter:
+                                        <strong>{{ post.age }}</strong>
+                                    </li>
+                                    <li>Dauer:
+                                        <strong>{{ post.duration }} minuten</strong>
+                                    </li>
+                                    <li>Preis:
+                                        <strong>{{ post.price }} €</strong>
+                                    </li>
+                                </ul>
+                                {% if post.out-of-stock == "Y" %}
+                                    <p style="color:red">Der Artikel ist zur Zeit nicht mehr in Reserve.</p>
+                                {% endif %}
+                            </div>
+                    </div>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+    </section>
