@@ -1,13 +1,13 @@
 ---
 title: Câu
 subtitle: Stratégie
-description: Un plateau mouvant, des piles à étaler le plus rapidement possible. Câu est un jeu réservé aux passionés de stratégie.
-goal: Tous ses pions sur le plateau de manière à n'avoir aucune pile comptabilisée.
+description: Un plateau mouvant, des piles à étaler le plus rapidement possible. Câu est un jeu réservé aux passionnés de stratégie.
+goal: Place tous tes pions sur le plateau de manière à n'avoir aucune pile comptabilisée.
 
 title-nl: Câu
 subtitle-nl: Strategie
 description-nl: Een bewegend bord, torens om zo snel mogelijk te verspreiden. Câu is een spel die voorbehouden is voor liefhebbers van strategie.
-goal-nl: Al onze pionnen, op het bord om op deze manier geen enkele toren te tellen.
+goal-nl: Al jou pionnen op het bord plaatsen om geen enkel toren te tellen.
 
 title-de: Câu
 subtitle-de: Strategie
