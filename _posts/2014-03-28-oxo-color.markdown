@@ -14,6 +14,11 @@ subtitle-de: Strategie/Gedächtnis
 description-de: Oxocolors ist DAS Spiel zum mitnehmen für unterwegs! <br/> Es ist dem OXO ähnlich aber in drei Dimensionen gemacht und mit Farben !
 goal-de: Sei der Erste der 3 Spielsteine der selben Farbe auf der Spielfläche auf eine Linie bringt.
 
+title-en: OxoColors
+subtitle-en: 
+description-en: 
+goal-en:
+
 layout: default
 modal-id: 1
 img: oxo-color

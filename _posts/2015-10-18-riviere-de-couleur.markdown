@@ -9,10 +9,15 @@ subtitle-nl: Strategie/Geheugen
 description-nl: De kleurenrivier is een strategisch en geheugenspel om aan de jongste te geven. <br>Het verbreedt het ruimtelijk inzicht en het denkvermogen en verfijnt de fijne motoriek.
 goal-nl: Kom als eerste aan de overkant van het speelbord met je 6 pionnen door langs de gekleurde plaatjes te gaan.<br/><br/>Lees de mening van <a href="http://jeuxsoc.fr/?principal=/jeu/rcoul">François Haffner</a>. Aleen in het frans.
 
-title-de: De rivier vol kleuren
+title-de: Der Farbenfluss
 subtitle-de: Stategie/Gedächtnis
 description-de: Der kleine Farbenfluss ist ein Strategie und Gedächtnisspiel zum Schenken, ab 8 Jahre. <br>Trainiert die räumliche Orientierung, die Feinmotorik und das visuelle Gedächtnis.
 goal-de: Komme als erster auf der anderen Seite des Spielfeldes an mit deinen 6 Spielsteinen mit denen Du die bunten Spielplättchen überschreiten musst.
+
+title-en: The river of colors
+subtitle-en: 
+description-en: 
+goal-en:
 
 layout: default
 modal-id: 2

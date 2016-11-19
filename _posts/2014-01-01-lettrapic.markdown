@@ -14,6 +14,11 @@ subtitle-de: Gute Stimmung
 description-de: Das Spiel bringt Dich zum sprechen... pass auf, dein Unterbewusstsein kann zum Vorschein kommen !
 goal-de: Sei der Erste der seine Karten abwirft. Buchstabenspiel nur in französich.
 
+title-en: Lettrapic
+subtitle-en: 
+description-en: 
+goal-en:
+
 layout: default
 modal-id: 1
 img: lettreapic

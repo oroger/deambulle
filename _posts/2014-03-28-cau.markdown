@@ -14,6 +14,11 @@ subtitle-de: Strategie
 description-de: Eine bewegliche Spielfläche, aufgestockte Spielsteine die so schnell wie möglich verteilt werden müssen. Câu ist ein Spiel ausschliesslich für leidenschaftliche Spieler.
 goal-de: Plaziere alle Spielsteine auf der Spielfläche so doss keine aufgestockten Spielsteine gezählt werden.
 
+title-en: Câu
+subtitle-en: 
+description-en: 
+goal-en:
+
 layout: default
 modal-id: 1
 img: cau

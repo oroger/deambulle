@@ -14,6 +14,11 @@ subtitle-de: Strategie
 description-de: Strategiespiel für die die gerne Denkspiele machen ohne sich im Kreis zu drehen.
 goal-de: Sei der Erste der ein Trio mit seinen Kugeln gleicher Farbe in den Topf in der Mitte bringt.
 
+title-en: Forog
+subtitle-en: 
+description-en: 
+goal-en:
+
 layout: default
 modal-id: 1
 img: forog

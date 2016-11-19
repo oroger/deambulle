@@ -14,6 +14,11 @@ subtitle-de: Stategie/Gedächtnis/Geschicklichkeit
 description-de: Tolles Spiel mit multiplen Facetten. Mehr als 10 verschiedene Variationen vom Kopfzerbrecher hin bis zum Geschicklichkeitsspiel.
 goal-de:
 
+title-en: Déambulle
+subtitle-en: Stategy/Memory/Agility
+description-en: 
+goal-en:
+
 layout: default
 modal-id: 1
 img: deambulle

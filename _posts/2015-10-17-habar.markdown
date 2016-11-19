@@ -14,6 +14,11 @@ subtitle-de: Gedächtnis
 description-de: Kleines Gedächtnisspiel dass man überall hin mitnehmen kann. Trainiert die Feinmotorik.
 goal-de: Finde die Farbstäbe wieder nachdem sie vermischt und umgedreht worden sind. Versuche so viel wie möglich Punkte zu bekommen.
 
+title-en: Habar
+subtitle-en: 
+description-en: 
+goal-en:
+
 layout: default
 modal-id: 3
 img: habar
