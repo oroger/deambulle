@@ -6,7 +6,7 @@ goal: <br/><br/>Lire l'<a href="http://jeuxsoc.fr/?principal=/jeu/deamb">avis de
 
 title-nl: Deambulle
 subtitle-nl: Strategie/Geheugen/Behendigheid
-description-nl: Reuze spel met meerdere facetten. Meer dan 10 variaties, van doordenker tot behendigheidsspel.
+description-nl: Veelzijdig reuze spel met meerdere facetten. Meer dan 10 variaties, van doordenker tot behendigheidsspel.
 goal-nl: <br/><br/>Lees de mening <a href="http://jeuxsoc.fr/?principal=/jeu/deamb">van François Haffner</a>.
 
 layout: default

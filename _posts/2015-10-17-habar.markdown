@@ -1,13 +1,13 @@
 ---
 title: Habar
 subtitle: Mémoire
-description: Petit jeu de memory à emporter partout avec toi. <br> Travaille aussi la psychomotricité fine.
+description: Petit jeu de mémoire à emporter partout avec toi. <br> Travaille aussi la psychomotricité fine.
 goal: Retrouve les couleurs après mélange et retournement des bâtonnets. Tente d'obtenir le max de points.
 
 title-nl: Habar
 subtitle-nl: Geheugen
-description-nl: Klein memorie spel om overal met je mee te nemen. Verfijnt de fijne motoriek.
-goal-nl: Vind je kleuren terug nadat je de stokken gemengeld en omgedraaid hebt. Probeer om zoveel mogelijk punten te hebben.
+description-nl: Klein geheugen spel om overal met je mee te nemen. Verfijnt de fijne motoriek.
+goal-nl: Vind je kleuren terug nadat je de stokken gemengeld en omgedraaid hebt. Probeer om zoveel mogelijk punten te halen.
 
 layout: default
 modal-id: 3

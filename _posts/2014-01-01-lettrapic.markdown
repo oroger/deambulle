@@ -6,8 +6,8 @@ goal: Sois le premier à écouler toutes tes cartes.
 
 title-nl: Lettrapic
 subtitle-nl: Gezellig
-description-nl: Het spel dat de talen losmaakt…pas op, je buitenbewustzijn kan je parten spelen.
-goal-nl: Wees de eerst om naar de kaarten te luisteren. Aleen in het frans.
+description-nl: Het spel dat de talen losmaakt… pas op, je onbewuste kan u verraden!
+goal-nl: Wees de eerste om al jou kaarten te ontdoen. Aleen in het frans.
 
 layout: default
 modal-id: 1
