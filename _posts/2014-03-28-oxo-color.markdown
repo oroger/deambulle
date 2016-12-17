@@ -15,9 +15,9 @@ description-de: Oxocolors ist DAS Spiel zum mitnehmen für unterwegs! <br/> Es i
 goal-de: Sei der Erste der 3 Spielsteine der selben Farbe auf der Spielfläche auf eine Linie bringt.
 
 title-en: OxoColors
-subtitle-en: 
-description-en: 
-goal-en:
+subtitle-en: Strategy / Memory
+description-en: Oxocoloгrs is THE game to bring with you on a trip! It's like an OXO but in three dimensions and with colours!
+goal-en: Be the first to line up 3 of the same colour pieces on the board.
 
 layout: default
 modal-id: 1

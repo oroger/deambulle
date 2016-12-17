@@ -15,9 +15,9 @@ description-de: Eine bewegliche Spielfläche, aufgestockte Spielsteine die so sc
 goal-de: Plaziere alle Spielsteine auf der Spielfläche so doss keine aufgestockten Spielsteine gezählt werden.
 
 title-en: Câu
-subtitle-en: 
-description-en: 
-goal-en:
+subtitle-en: Strategy
+description-en: A moving plate, batteries to spread as quickly as possible. Cau is a game for strategy fans.
+goal-en: Place all your pieces on the board so as to have no recorded stack.
 
 layout: default
 modal-id: 1

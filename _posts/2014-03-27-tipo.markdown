@@ -15,9 +15,9 @@ description-de: Gedächtnisspiel für die Familie.
 goal-de: Finde die Farben und gewinne die meisten Spielsteine.
 
 title-en: Tipo
-subtitle-en: 
-description-en: 
-goal-en:
+subtitle-en: Memory
+description-en: Family memory game. Helps to keep an on healthy memory.
+goal-en: Found the colours and win more tokens.
 
 layout: default
 modal-id: 1

@@ -15,9 +15,9 @@ description-de: Kleines Gedächtnisspiel dass man überall hin mitnehmen kann. T
 goal-de: Finde die Farbstäbe wieder nachdem sie vermischt und umgedreht worden sind. Versuche so viel wie möglich Punkte zu bekommen.
 
 title-en: Habar
-subtitle-en: 
-description-en: 
-goal-en:
+subtitle-en: Memory
+description-en: Small memory game to carry around with you. Also works fine motor skills.
+goal-en: Find the colours after mixing and flipping the sticks. Try to get the maximum points.
 
 layout: default
 modal-id: 3

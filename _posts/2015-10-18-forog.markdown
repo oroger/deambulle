@@ -15,9 +15,9 @@ description-de: Strategiespiel für die die gerne Denkspiele machen ohne sich im
 goal-de: Sei der Erste der ein Trio mit seinen Kugeln gleicher Farbe in den Topf in der Mitte bringt.
 
 title-en: Forog
-subtitle-en: 
-description-en: 
-goal-en:
+subtitle-en: Strategy
+description-en: Strategy game for those who like to widern the menings without much in circles.
+goal-en: Be the first to form a trio of your same colour balls into the central pot.
 
 layout: default
 modal-id: 1
